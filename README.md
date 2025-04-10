@@ -70,16 +70,16 @@ Welcome to my GitHub profile!
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Your GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub streak stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hi-AY&show_icons=true&theme=radical" alt="Your GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hi-AY&theme=radical" alt="GitHub streak stats" />
 </p>
 
 ## 🌐 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-grey?style=flat-square&logo=firefox-browser)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/anmolyaduvanshi)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/anmolyaduvanshi11)
 
 ---
 
+Feel free connect with me regarding work or tech discussion!!
 Thanks for visiting! Have a great day 🚀
