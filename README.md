@@ -17,7 +17,7 @@ Welcome to my GitHub profile!
 
 ### 💻 Languages & Frameworks
 ![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c-sharp)
-![.NET](https://img.shields.io/badge/-.NET-black?style=flat-square&logo=dotnet)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
