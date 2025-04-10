@@ -17,7 +17,7 @@ Welcome to my GitHub profile!
 
 ### 💻 Languages & Frameworks
 ![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c-sharp)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-black?style=flat-square&logo=dotnet)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
@@ -70,9 +70,11 @@ Welcome to my GitHub profile!
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hi-AY&show_icons=true&theme=radical" alt="Your GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hi-AY&theme=radical" alt="GitHub streak stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hi-AY&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hi-AY&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hi-AY&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
 
 ## 🌐 Let's Connect!
 
