@@ -10,7 +10,9 @@ Welcome to my GitHub profile!
 - 👯 I’m open to collaborating on real-world SaaS products, open-source projects, or freelance gigs where I can contribute with my full-stack and cloud expertise — particularly in .NET, Angular, Microservices, Azure, and AWS.
 - 💬 You can reach out to me to discuss software engineering career paths, or deep-dive into topics like .NET, Angular, JavaScript, Microservices, Azure, and AWS.
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/anmolyaduvanshi) or drop a message here on GitHub.
+- 💼 I'm currently open to new job opportunities where I can contribute to impactful software projects and continue growing as an engineer.
 - ⚡ Fun fact: I’ve got a curious mind that loves diving into Astronomy and Quantum Physics — always fascinated by the "why" behind the "how."
+
 
 
 ## 🛠️ Tech Stack
